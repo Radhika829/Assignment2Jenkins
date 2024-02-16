@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\bin\Debug\net6.0\Assignment2Jenkins.exe
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\bin\Debug\net6.0\Assignment2Jenkins.deps.json
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\bin\Debug\net6.0\Assignment2Jenkins.runtimeconfig.json
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\bin\Debug\net6.0\Assignment2Jenkins.dll
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\bin\Debug\net6.0\Assignment2Jenkins.pdb
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\obj\Debug\net6.0\Assignment2Jenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\obj\Debug\net6.0\Assignment2Jenkins.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\obj\Debug\net6.0\Assignment2Jenkins.AssemblyInfo.cs
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\obj\Debug\net6.0\Assignment2Jenkins.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\obj\Debug\net6.0\Assignment2Jenkins.dll
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\obj\Debug\net6.0\refint\Assignment2Jenkins.dll
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\obj\Debug\net6.0\Assignment2Jenkins.pdb
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\obj\Debug\net6.0\Assignment2Jenkins.genruntimeconfig.cache
+C:\Users\HP\Documents\Phase4\Assignment2Jenkins\Assignment2Jenkins\obj\Debug\net6.0\ref\Assignment2Jenkins.dll
